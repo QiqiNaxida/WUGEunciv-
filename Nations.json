@@ -1,0 +1,137 @@
+[
+// 国家，城邦
+{
+    "name": "宋",
+    "leaderName": "宵烛",
+    "adjective": [
+      "WUGE试验029宋"
+    ],
+    "startBias": [],
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+    "declaringWar": "",
+    "attacked": "",
+    "defeated": "",
+    "introduction": "",
+    "neutralHello": "",
+    "hateHello": "",
+    "tradeRequest": "",
+    "outerColor": [
+      215,
+      0,
+      21
+    ],
+    "innerColor": [
+      170,
+      80,
+      0
+    ],
+    "style": "",
+    "uniqueName": "宋的能力",
+    "uniques": [
+      "[+25]% [Gold] [in all cities]",
+      "[+25]% [Gold] [in all cities connected to capital]",
+      "[+2 Gold] from [Improvement] tiles [in all cities]",
+      "[+1 Science] per every [10] [Gold]"
+    ],
+    "cities": [
+      "宋城市1",
+      "宋城市2",
+      "宋城市3",
+      "宋城市4",
+      "宋城市5",
+      "宋城市6",
+      "宋城市7",
+      "宋城市8",
+      "宋城市9",
+      "宋城市10",
+      "宋城市11",
+      "宋城市12",
+      "宋城市13",
+      "宋城市14",
+      "宋城市15",
+      "宋城市16"
+    ]
+  },
+// 国家名称
+// "领导者"
+// "形容词",//WUGE不清楚（他们都是中国与中文这种格式）
+// "WUGE不清楚"//起始地形偏好
+// "preferredVictoryType":
+// "WUGE不清楚"//当该文明作为ai时偏好胜利路线
+// "favoredReligion": ,
+// "WUGE不清楚"//WUGE真不清楚（当作为ai时选择的宗教（不理解））
+// "WUGE不清楚"//介绍1
+// "WUGE不清楚"//介绍2
+// "宣战"//向玩家宣战
+// "遭到攻击"//被玩家宣战
+// "战败"//被玩家打败时
+// "导言"//初见
+// "中性的问候"//通常问候
+// "带有恨意的问候"//战争时问候
+// "交易请求"//向玩家申请交易时
+// "外色"//WUGE不清楚（松饼的代码标注的是
+// 文明内部色*
+// ）
+// "内色"//WUGE不清楚（松饼的代码标注的是
+// 文明内部色*
+// ）
+// "风格"//WUGE真不清楚
+// "唯一性名称"//能力名称
+// "城市"//城市名字
+{
+    "name": "亚特兰蒂斯",
+    "leaderName": "甄弟弟",
+    "adjective": [
+      "WUGE试验029亚特兰蒂斯"
+    ],
+    "startBias": [],
+    "startIntroPart1": "",
+    "startIntroPart2": "",
+    "declaringWar": "",
+    "attacked": "",
+    "defeated": "",
+    "introduction": "",
+    "neutralHello": "",
+    "hateHello": "",
+    "tradeRequest": "",
+    "outerColor": [
+      0,
+      64,
+      211
+    ],
+    "innerColor": [
+      99,
+      230,
+      226
+    ],
+    "style": "",
+    "uniqueName": "亚特兰蒂斯的能力",
+    "uniques": [
+      "[+1 Faith] [in all cities] <before founding a Pantheon>",
+      "[+2 Culture, +2 Faith] from each Trade Route",
+      "[+100]% Strength <when defending> <for [Embarked] units>",
+      "[{Military} {Land}] units gain the [Amphibious] promotion",
+      "[All] units gain the [亚特兰蒂斯的力量] promotion",
+      "[All] units gain the [美人鱼] promotion"
+    ],
+    "cities": [
+      "亚特兰蒂斯城市1",
+      "亚特兰蒂斯城市2",
+      "亚特兰蒂斯城市3",
+      "亚特兰蒂斯城市4",
+      "亚特兰蒂斯城市5",
+      "亚特兰蒂斯城市6",
+      "亚特兰蒂斯城市7",
+      "亚特兰蒂斯城市8",
+      "亚特兰蒂斯城市9",
+      "亚特兰蒂斯城市10",
+      "亚特兰蒂斯城市11",
+      "亚特兰蒂斯城市12",
+      "亚特兰蒂斯城市13",
+      "亚特兰蒂斯城市14",
+      "亚特兰蒂斯城市15",
+      "亚特兰蒂斯城市16"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[//建筑页和奇观页
+//建筑，世界奇观，国家奇观
+//宋
+	{
+		"name": "盟约",
+        "replaces": "Monument",
+		"uniqueTo": "宋",
+		"culture": 2,
+		"gold": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": [
+		"[+1 Culture] per every [10] [Gold]",
+		"Destroyed when the city is captured",
+		],
+	},
+	{
+		"name": "和约",
+        "replaces": "Granary",
+		"uniqueTo": "宋",
+		"food": 2,
+		"cost": 60,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": [
+		"[+1 Food] from [Improvement] tiles [in this city]",
+		"[+1 Food] from [Deer] tiles [in this city]",
+		"[+1 Food] from [Bananas] tiles [in this city]",
+		"[+1 Food] from [Wheat] tiles [in this city]",
+		],
+		"requiredTech": "Pottery"
+	},
+//亚特兰蒂斯
+	{
+		"name": "海神殿",//名字
+		"uniqueTo": "亚特兰蒂斯",//专属
+		"replaces": "Shrine",//代替
+		"faith":1,
+		"culture": 1,//文化
+		"cost": 40,//需要多少产能
+		"uniques": [
+		"[+1 Food, +1 Culture] from [Coast] tiles [in this city]",
+		],
+		"requiredTech": "Pottery"//需要科技
+	},
+]
